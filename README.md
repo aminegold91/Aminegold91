@@ -15,7 +15,7 @@ Skills:  REACT / JS / HTML / CSS / BOOTSTRAP
 [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' width='40'> ](https://github.com/https://github.com/aminegold91/Aminegold91)
 
 
-[<img src="[http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-filetype-html" viewBox="0 0 16 16](https://raw.githubusercontent.com/aminegold91/Lamin-elkouss/refs/heads/main/png-transparent-logo-html-html5-thumbnail.png)">]
+[<img src="[http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-filetype-html" viewBox="0 0 16 16](https://raw.githubusercontent.com/aminegold91/Lamin-elkouss/refs/heads/main/png-transparent-logo-html-html5-thumbnail.png)">](https://github.com/https://github.com/aminegold91/Aminegold91)
 
 
 
