@@ -13,4 +13,4 @@ aminegold91 هو مطور ويب يمتلك مهارات متميزة في HTML 
 Skills:  REACT / JS / HTML / CSS / BOOTSTRAP
  
 
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/aminegold91/Lamin-elkouss/refs/heads/main/20241104_123050.png)
+![I am GitHub Readme Generator's creator](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRxRUM88iZ_SFKgQk3YDvPaTREHcz39Y9ljv_BDgfcfQaFunidwo3N9TFcOcdgf3_I5Chp3E582D1pXs7w_GcUYY1haVJsjt2qy9zoWc3Y1zClWtK5EyH3tKbSqL1HFqRMfXoV200MgJ_MtVRo02dfhH62bQv1DITYFSAEjaizzYrjehCDvDQepbkd8zk/s1280/20240414_014021.png)
