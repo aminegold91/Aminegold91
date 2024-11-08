@@ -16,4 +16,4 @@ Skills:  REACT / JS / HTML / CSS / BOOTSTRAP
 
 
 
-[<img  src="[[../med.jpg](https://raw.githubusercontent.com/aminegold91/Lamin-elkouss/refs/heads/main/20241104_123050.png)](https://raw.githubusercontent.com/aminegold91/Lamin-elkouss/refs/heads/main/20241104_123050.png)" width="200px" alt="">]
+[<img  src="https://raw.githubusercontent.com/aminegold91/Lamin-elkouss/refs/heads/main/20241104_123050.png)](https://raw.githubusercontent.com/aminegold91/Lamin-elkouss/refs/heads/main/20241104_123050.png" width="200px" alt="">]
