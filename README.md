@@ -12,7 +12,7 @@ aminegold91 هو مطور ويب يمتلك مهارات متميزة في HTML 
 
 Skills:  REACT / JS / HTML / CSS / BOOTSTRAP
  
-[<img  style='color:#fff;width:40; hight:40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aminegold91/Aminegold91)
+[<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' width='40'> ](https://github.com/https://github.com/aminegold91/Aminegold91)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100006270765868&mibextid=ZbWKwL)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@academykiriwt-zo6xe?si=hJ3B2E02ObwbJxwJ)  
